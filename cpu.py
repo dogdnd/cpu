@@ -98,8 +98,10 @@ def main() :
 
     if len(pair_choice) != 0 :
         st.dataframe(df[pair_choice].corr())
-        fig1 = sns.pairplot(data = df, vars = pair_choice )
-        st.pyplot(fig1)
+        
+        if st.button('상관관계 그래프 보기') :
+            fig1 = sns.pairplot(data = df, vars = pair_choice )
+            st.pyplot(fig1)
 
 
     
@@ -126,6 +128,7 @@ def main() :
         color='turboClock', 
         tooltip=['singleScore', 'multiScore','baseClock','turboClock']
         )
+        
         st.altair_chart(a, use_container_width=True)
     
 
