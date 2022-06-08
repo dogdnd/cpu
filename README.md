@@ -5,6 +5,11 @@
 
 # GitHub Repository (https://github.com/dogdnd/cpu)
 
+# data from kaggle : (https://www.kaggle.com/datasets/alanjo/cpu-benchmarks)
+
+# used ML : Linear regression
+
+
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
