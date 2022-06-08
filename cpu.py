@@ -9,6 +9,7 @@ from PIL import Image
 
 import altair as alt
 
+
 row0_spacer1, row0_1, row0_spacer2, row0_2, row0_spacer3 = st.columns((.1, 2.3, .1, 1.3, .1))
 with row0_1:
     st.title('CPU Data EDA and ML benchmark score predict Project')
@@ -147,8 +148,11 @@ def main() :
     cpu_pred= scaler_x.inverse_transform(cpu_pred)
     
     cpu_pred = cpu_pred.tolist()
-    st.write('예상 싱글코어 점수는' ,round(cpu_pred[0][0]), '입니다.')
-    st.write('예상 멀티코어 점수는' ,round(cpu_pred[0][1]), '입니다.')
+
+    if st.button('예측') :
+
+        st.write('예상 싱글코어 점수는' ,round(cpu_pred[0][0]), '입니다.')
+        st.write('예상 멀티코어 점수는' ,round(cpu_pred[0][1]), '입니다.')
 
 
     
