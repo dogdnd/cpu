@@ -7,7 +7,13 @@
 
 # data from kaggle : (https://www.kaggle.com/datasets/alanjo/cpu-benchmarks)
 
-# used ML : Linear regression
+### used ML : Linear regression test size=0.25
+
+### used scaler : Standard scaler
+
+### ML train data columns : 'cores' , 'threads' , 'baseClock', 'turboClock'
+
+### ML predict data columns : 'singleScore' , 'multiScore'
 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
