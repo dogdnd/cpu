@@ -11,6 +11,12 @@
 
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=Python&logoColor=white">
 
+<img src="https://img.shields.io/badge/data-ai-000000?style=for-the-badge&logo=Python&logoColor=white">
+
+<img src="https://img.shields.io/badge/tensorFlow-FF6F00?style=for-the-badge&logo=Python&logoColor=white">
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Python&logoColor=white">
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdogdnd&count_bg=%2379C83D&title_bg=%23555555&icon=ko-fi.svg&icon_color=%23FFFFFF&title=visit&edge_flat=false"/></a>
 
 
