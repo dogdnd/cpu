@@ -5,6 +5,10 @@
 
 # GitHub Repository (https://github.com/dogdnd/cpu)
 
+<img src="https://img.shields.io/badge/python-3776ABstyle=for-the-badge&logo=Python&logoColor=white">
+
+
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdogdnd&count_bg=%2379C83D&title_bg=%23555555&icon=ko-fi.svg&icon_color=%23FFFFFF&title=visit&edge_flat=false"/></a>
 
 
@@ -14,4 +18,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogdnd)](https://github.com/dogdnd/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dogdnd)](https://github.com/dogdnd/github-readme-stats)
