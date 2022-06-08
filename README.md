@@ -10,8 +10,4 @@
 
 [![dogdnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogdnd)](https://github.com/dogdnd/github-readme-stats)
 
-![dogdnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogdnd&count_private=true)
-
-![dogdnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogdnd&show_icons=true)
-
-![dogdnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogdnd&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dogdnd&repo=github-readme-stats)](https://github.com/dogdnd/github-readme-stats)
