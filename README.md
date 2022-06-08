@@ -10,6 +10,8 @@
 
 [![dogdnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogdnd)](https://github.com/dogdnd/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dogdnd&repo=github-readme-stats)](https://github.com/dogdnd/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogdnd)](https://github.com/dogdnd/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dogdnd)](https://github.com/dogdnd/github-readme-stats)
