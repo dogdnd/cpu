@@ -11,11 +11,11 @@ import altair as alt
 
 row0_spacer1, row0_1, row0_spacer2, row0_2, row0_spacer3 = st.columns((.1, 2.3, .1, 1.3, .1))
 with row0_1:
-    st.title('CPU 데이터 EDA 및 ML 점수 예측')
+    st.title('CPU Data EDA and ML benchmark score predict Project')
 
 row3_spacer1, row3_1, row3_spacer2 = st.columns((.1, 3.2, .1))
 with row3_1:
-    st.markdown("made by 제웅")
+    st.markdown("made by dogdnd")
     st.markdown("used library : pandas, numpy, streamlit, matplotlib.pyplot, seaborn, joblib")
     st.markdown("[GitHub Repository](https://github.com/dogdnd/streamlit_1)")
 
