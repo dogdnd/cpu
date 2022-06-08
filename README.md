@@ -5,7 +5,7 @@
 
 # GitHub Repository (https://github.com/dogdnd/cpu)
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=blue">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 
 
