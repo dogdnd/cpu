@@ -14,7 +14,9 @@
 
 ### ML train data columns : 'cores' , 'threads' , 'baseClock', 'turboClock'
 
-### ML predict data columns : 'singleScore' , 'multiScore'
+### ML predict data columns : 'singleScore' , 'multiScore' 
+
+
 
 
 

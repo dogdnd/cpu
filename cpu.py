@@ -152,10 +152,10 @@ def main() :
     
     cpu_pred = cpu_pred.tolist()
 
-    if st.button('예측') :
+    if st.button('벤치마크 예측') :
 
-        st.write('예상 싱글코어 점수는' ,round(cpu_pred[0][0]), '입니다.')
-        st.write('예상 멀티코어 점수는' ,round(cpu_pred[0][1]), '입니다.')
+        st.write('예측된 싱글코어 점수는' ,round(cpu_pred[0][0]), '입니다.')
+        st.write('예측된 멀티코어 점수는' ,round(cpu_pred[0][1]), '입니다.')
 
 
     
