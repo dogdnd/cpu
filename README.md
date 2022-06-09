@@ -2,20 +2,36 @@
 # CPU 데이터 EDA 및 Machine Learning Regressor를 활용한 벤치마크 점수 예측
 
 
-# GitHub Repository (https://github.com/dogdnd/cpu)
+## why?
 
-# data from kaggle : (https://www.kaggle.com/datasets/alanjo/cpu-benchmarks)
+## who?
 
-### used library : pandas, numpy, streamlit, matplotlib.pyplot, seaborn, joblib
+## how to
+
+### used library : pandas, numpy, streamlit, matplotlib.pyplot, seaborn, joblib (add link, pip)
 
 ### used ML : Linear regression test size=0.25
 
-### used scaler : Standard scaler
+### used scaler : Standard scaler for whice columns
 
 ### ML train data columns : 'cores' , 'threads' , 'baseClock', 'turboClock'
 
 ### ML predict data columns : 'singleScore' , 'multiScore' 
 
+### ML confusion matrix(ML 정확도)
+
+## EDA describe
+
+## ML describe
+
+## issue
+
+## issue solve
+
+
+## licence
+### GitHub Repository (https://github.com/dogdnd/cpu)
+### data from kaggle : (https://www.kaggle.com/datasets/alanjo/cpu-benchmarks)
 
 
 
