@@ -6,7 +6,9 @@
 
 ## who?
 
-## how to
+## data columns describe
+
+## how to install
 
 ### used library : pandas, numpy, streamlit, matplotlib.pyplot, seaborn, joblib (add link, pip)
 
@@ -20,9 +22,9 @@
 
 ### ML confusion matrix(ML 정확도)
 
-## EDA describe
+## EDA dashboard describe
 
-## ML describe
+## ML dashboard describe
 
 ## issue
 
