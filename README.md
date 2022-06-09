@@ -6,7 +6,7 @@
 
 ## who?
 
-## data columns describe
+## data columns description
 
 ## how to
 
@@ -22,17 +22,18 @@
 
 * ML confusion matrix(ML 정확도)
 
-## EDA dashboard describe
+## EDA dashboard info
 
-## ML dashboard describe
+## ML dashboard info
 
 ## issue
 
-## issue solve
+## issue fix
 
 ## licence
-### GitHub Repository (https://github.com/dogdnd/cpu)
-### data from kaggle : (https://www.kaggle.com/datasets/alanjo/cpu-benchmarks)
+* GitHub Repository (https://github.com/dogdnd/cpu)
+
+* data from kaggle : (https://www.kaggle.com/datasets/alanjo/cpu-benchmarks)
 
 
 
