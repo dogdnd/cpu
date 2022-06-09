@@ -10,17 +10,17 @@
 
 ## how to install
 
-### used library : pandas, numpy, streamlit, matplotlib.pyplot, seaborn, joblib (add link, pip)
+* used library : pandas, numpy, streamlit, matplotlib.pyplot, seaborn, joblib (add link, pip)
 
-### used ML : Linear regression test size=0.25
+* used ML : Linear regression test size=0.25
 
-### used scaler : Standard scaler for whice columns
+* used scaler : Standard scaler for whice columns
 
-### ML train data columns : 'cores' , 'threads' , 'baseClock', 'turboClock'
+* ML train data columns : 'cores' , 'threads' , 'baseClock', 'turboClock'
 
-### ML predict data columns : 'singleScore' , 'multiScore' 
+* ML predict data columns : 'singleScore' , 'multiScore' 
 
-### ML confusion matrix(ML 정확도)
+* ML confusion matrix(ML 정확도)
 
 ## EDA dashboard describe
 
@@ -29,7 +29,6 @@
 ## issue
 
 ## issue solve
-
 
 ## licence
 ### GitHub Repository (https://github.com/dogdnd/cpu)
