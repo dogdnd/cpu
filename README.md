@@ -30,7 +30,7 @@
 
 ## issue fix
 
-## licence
+## reference
 * GitHub Repository (https://github.com/dogdnd/cpu)
 
 * data from kaggle : (https://www.kaggle.com/datasets/alanjo/cpu-benchmarks)
