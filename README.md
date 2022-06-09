@@ -8,7 +8,7 @@
 
 ## data columns describe
 
-## how to install
+## how to
 
 * used library : pandas, numpy, streamlit, matplotlib.pyplot, seaborn, joblib (add link, pip)
 
